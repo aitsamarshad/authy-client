@@ -1,6 +1,6 @@
 # authy-clien
 
-A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs.
+A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
 
 ## Status
 
